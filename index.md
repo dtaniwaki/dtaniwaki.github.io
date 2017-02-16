@@ -9,6 +9,8 @@
 ## Ruby
 
 [rack-dev-mark](https://github.com/dtaniwaki/rack-dev-mark)
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/dtaniwaki/rack-dev-mark" data-icon="octicon-star" data-style="mega" data-count-href="/dtaniwaki/rack-dev-mark/stargazers" data-count-api="/repos/dtaniwaki/rack-dev-mark#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star dtaniwaki/rack-dev-mark on GitHub">Star</a>
 
 [rack-secure-upload](https://github.com/dtaniwaki/rack-secure-upload)
 
@@ -64,4 +66,5 @@ Sample App:
 
 [issue-checker-for-github](https://github.com/dtaniwaki/issue-checker-for-github)
 
-
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>

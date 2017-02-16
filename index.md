@@ -36,7 +36,7 @@
 
 [fluent-plugin-fork](https://github.com/dtaniwaki/fluent-plugin-fork)
 
-### Sample App
+Sample App:
 
 [rack-dev-mark-sample-app](https://github.com/dtaniwaki/rack-dev-mark-sample-app)
 
@@ -44,7 +44,7 @@
 
 [akka-pusher](https://github.com/dtaniwaki/akka-pusher)
 
-### Sample App
+Sample App:
 
 [akka-pusher-play-app](https://github.com/dtaniwaki/akka-pusher-play-app)
 

@@ -1,6 +1,7 @@
 # dtaniwaki.github.io
 
-
-    $ bundle exec jekyll serve
-
+```bash
+bundle install
+bundle exec jekyll serve
+```
 

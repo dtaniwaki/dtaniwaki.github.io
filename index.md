@@ -1,4 +1,11 @@
-# dtaniwaki's Achievement
+# About me
+
+I'm a full stack developer who likes writing Ruby, Node.js and Scala and some experiences of C, C++, Python and Frontend JS.
+
+I love scuba diving, traveling, yoga and rugby. I used to live in Taiwan, New York and San Francisco. I like learning languages and speak Japanese, English, Chinese and Spanish.
+
+
+# Achievement
 
 ## Project
 

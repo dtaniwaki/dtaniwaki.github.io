@@ -30,6 +30,9 @@ I love scuba diving, traveling, yoga and rugby. I used to live in Taiwan, New Yo
 [bugsnag-ruby-ext](https://github.com/dtaniwaki/bugsnag-ruby-ext) 
 <a class="github-button" href="https://github.com/dtaniwaki/bugsnag-ruby-ext" data-count-href="/dtaniwaki/bugsnag-ruby-ext/stargazers" data-count-api="/repos/dtaniwaki/bugsnag-ruby-ext#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star dtaniwaki/bugsnag-ruby-ext on GitHub">Star</a>
 
+[url_regexp](https://github.com/dtaniwaki/url_regexp)
+<a class="github-button" href="https://github.com/dtaniwaki/url_regexp" data-count-href="/dtaniwaki/url_regexp/stargazers" data-count-api="/repos/dtaniwaki/url_regexp#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star dtaniwaki/url_regexp on GitHub">Star</a>
+
 ### Rails
 
 [mandriller](https://github.com/dtaniwaki/mandriller) 

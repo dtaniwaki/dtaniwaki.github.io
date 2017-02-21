@@ -11,6 +11,8 @@ I love scuba diving, traveling, yoga and rugby. I used to live in Taiwan, New Yo
 
 [Kaizen Optimization Platform](https://www.slideshare.net/DaisukeTaniwaki/kaizen-platform-optimization-system-architecture)
 
+<iframe src="https://www.slideshare.net/DaisukeTaniwaki/slideshelf" width="490px" height="470px" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:none;" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe>
+
 ## Project
 
 [e2e-tester](https://github.com/dtaniwaki/e2e-tester)

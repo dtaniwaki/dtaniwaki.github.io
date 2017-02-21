@@ -62,10 +62,6 @@ I love scuba diving, traveling, yoga and rugby. I used to live in Taiwan, New Yo
 [fluent-plugin-fork](https://github.com/dtaniwaki/fluent-plugin-fork) 
 <a class="github-button" href="https://github.com/dtaniwaki/fluent-plugin-fork" data-count-href="/dtaniwaki/fluent-plugin-fork/stargazers" data-count-api="/repos/dtaniwaki/fluent-plugin-fork#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star dtaniwaki/fluent-plugin-fork on GitHub">Star</a>
 
-Sample App:
-
-[rack-dev-mark-sample-app](https://github.com/dtaniwaki/rack-dev-mark-sample-app)
-
 ## Scala
 
 [akka-pusher](https://github.com/dtaniwaki/akka-pusher) 
